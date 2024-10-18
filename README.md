@@ -1,4 +1,5 @@
 Funções:
+
 1- Declara quatro variáveis do tipo float: nota1, nota2, nota3 e media.
 
 2- Solicita ao usuário que insira as três notas do aluno e armazena os valores nas variáveis nota1, nota2 e nota3.
